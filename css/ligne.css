@@ -8,3 +8,9 @@ hr.ligne {
   border-left: 3px solid #2c3e50;
   height: 100px;
 }
+
+h1 {
+  color: #e74c3c;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
