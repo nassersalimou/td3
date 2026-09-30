@@ -14,3 +14,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
+footer {
+  border-top: 1px solid #2c3e50;
+}
