@@ -28,3 +28,8 @@ footer {
 .menu a {
   color: white;
 }
+
+.menu {
+  padding: 12px 20px;
+  text-align: center;
+}
