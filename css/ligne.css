@@ -19,3 +19,12 @@ h1 {
 footer {
   border-top: 1px solid #2c3e50;
 }
+
+.menu {
+  background-color: #a8e6a1;
+  color: white;
+}
+
+.menu a {
+  color: white;
+}
