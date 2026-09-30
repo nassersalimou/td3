@@ -33,3 +33,8 @@ footer {
   padding: 12px 20px;
   text-align: center;
 }
+
+.menu a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
