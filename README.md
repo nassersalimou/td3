@@ -1,30 +1,13 @@
-\# Nouvelle page : Services
+# Page Services - Rachid Dalouse
 
+## Historique avant le squash
 
+3 commits de developpement :
 
-Branche `nouvelle-page` réalisée par Rachid Dalouse.
+![git log avant squash](Avant_Squash.png)
 
+## Historique apres le squash
 
+Un seul commit apres git rebase -i master :
 
-\## Historique avant le squash
-
-
-
-Capture du `git log --oneline` montrant les commits de développement de la page :
-
-
-
-!\[Historique git log avant squash](capture\_log.png)
-
-
-
-\## Contenu
-
-
-
-\- Nouvelle page `services.html`
-
-\- Liste des services proposés
-
-\- Tableau des tarifs
-
+![git log apres squash](Apres_Squash.png)
