@@ -1,4 +1,10 @@
 
+# TD3 - Documentation
+
+## Historique des commits avant le squash
+![Capture de git log](capture-log.png)
+
+
 ## Page Services : historique avant le squash
 
 Les commits de développement de la page Services, avant le rebase interactif :
@@ -10,3 +16,4 @@ Les commits de développement de la page Services, avant le rebase interactif :
 Un seul commit après `git rebase -i master` :
 
 ![git log après squash](Apres_Squash.png)
+
